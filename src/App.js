@@ -15,7 +15,7 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    변경사항asdfasdf
+                    변경사항asdfasdfㅁㄴㅇㄹㅁㄴㅇㄹ
                 </a>
             </header>
         </div>
